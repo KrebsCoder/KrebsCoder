@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Krebs!</h1>
+<h1 align="center">Hey, I'm Lucas but you can call me Krebs</h1>
 <h3 align="center">I'm currently studying Software Engineering at École 42 unit SP</h3>
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KrebsCoder](https://github.com/KrebsCoder)
-
-- 📫 How to reach me **lucasklopess@gmail.com or**
+- 📫 How to reach me **lucasklopess@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
