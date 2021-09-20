@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lucas but you can call me Krebs</h1>
 <h3 align="center">I'm currently studying Software Engineering at École 42 unit SP</h3>
 
-- 🌱 I’m learning **C** and ***Shell Scripting*
+- 🌱 I’m learning **C** and **Shell Scripting**
 
 - 📫 How to reach me **lucasklopess@gmail.com**
 
