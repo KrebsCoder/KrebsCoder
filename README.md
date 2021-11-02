@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Lucas but you can call me Krebs</h1>
+<h1 align="center">Hello world! I'm Lucas</h1>
 <h3 align="center">I'm currently studying Software Engineering at École 42 unit SP</h3>
 
 - 🌱 I’m learning **C**, **Shell Scripting** and **Javascript**
