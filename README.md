@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! I'm Krebs</h1>
+<h1 align="center">Hello world! I'm Krebs 🦀</h1>
 <h3 align="center">I'm currently studying Software Engineering at École 42 unit SP</h3>
 
 - 🌱 I’m learning **C**, **Java**, **Spring Boot** and **OPP**
