@@ -17,7 +17,6 @@
 <a href="https://spring.io/projects/spring-framework" target="_blank"> <img src="https://devicons.railway.app/i/spring.svg" alt="Spring image" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.railway.app/i/tux.svg" alt="Linux Image" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://devicons.railway.app/i/git.svg" alt="Git Image" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.railway.app/i/docker.svg" alt="Docker Image" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://devicons.railway.app/i/postgresql.svg" alt="Postgresql Image" width="40" height="40"/></a>
 
