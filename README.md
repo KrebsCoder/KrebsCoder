@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! I'm Krebs 🦀</h1>
-<h3 align="center">I'm currently studying Software Engineering at École 42 unit SP</h3>
+<h3 align="center">I'm currently a DevOps Enginneer at <a href="https://duckduckgo.com/?t=ffab&q=t-systems+do+brasil&ia=web">T-System do Brasil</a></h3>
 
-- 🌱 I’m learning **C**, **Java**, **Spring Boot** and **OPP**
+- 🌱 I’m learning **Kubernetes**, **Jenkins**, **Ansible** and **CI/CD**
 
 - 📫 How to reach me **lucasklopess@gmail.com**
 
