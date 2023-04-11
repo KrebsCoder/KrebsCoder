@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! I'm Krebs 🦀</h1>
-<h3 align="center">I'm currently a DevOps Enginneer at <a href="https://duckduckgo.com/?t=ffab&q=t-systems+do+brasil&ia=web">T-System do Brasil</a></h3>
+<h3 align="center">I'm currently a DevOps Enginneer at <a href="https://www.t-systems.com/br/pt">T-System do Brasil</a></h3>
 
 - 🌱 I’m learning **Kubernetes**, **Jenkins**, **Ansible**, **Terraform** and **CI/CD**
 
